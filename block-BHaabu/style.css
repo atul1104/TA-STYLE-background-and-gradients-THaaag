@@ -106,7 +106,7 @@ h2{
 .box4{
     width: 100%;
     height: 400px;
-    background: url(../block-BHaabu/media/bg-img2.jpg) no-repeat ;
+    background: linear-gradient(to right bottom, transparent, #ff0248), url(../block-BHaabu/media/bg-img2.jpg) no-repeat ;
     background-size: cover;
     object-fit: cover;
     border-radius: 6px;
